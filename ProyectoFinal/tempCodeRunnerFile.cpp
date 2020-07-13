@@ -1,0 +1,1 @@
+int Articulos[100];
